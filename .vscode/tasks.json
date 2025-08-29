@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Start Emulator",
+        "type": "shell",
+        "command": "flutter emulators --launch Pixel_9",
+        "problemMatcher": []
+      }
+    ]
+  }
